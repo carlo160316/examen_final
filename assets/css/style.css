@@ -1,0 +1,113 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+body *{
+    font-family: 'Signika', sans-serif;
+}
+
+.navbar{
+    background-color: #323131;
+    position:fixed;    
+    text-align: center;
+    padding: auto;
+    width: 100vw;
+}
+
+.logo-nav{
+    width: 20rem;
+}
+
+
+.list-group .h5{
+    color: firebrick;
+}
+
+
+
+.rojo{
+    color: rgb(255, 6, 6);
+}
+
+.boton{
+    font-size: 12px;
+
+}
+
+.fondo-historia{
+    background-color: rgb(31, 31, 31);
+}
+
+.portada{
+    
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    font-weight: bold;
+    width: 100%;
+    height: 50rem;
+    background-image: url(../img/background_3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20rem;
+}
+
+.habilidades{
+    padding: 5rem 2rem;
+    padding-bottom: 0;
+    background-color: rgb(32, 32, 32);
+    
+}
+.trabajos{
+    display: flex;
+    padding: 0;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    text-align: right;
+   
+}
+
+.subtitulo{
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+
+.experiencia{
+    background-color: rgb(22, 22, 22);
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    
+    
+}
+.contacto{
+    padding: 6rem;
+    background-color: white;
+    background-image: url(../img/blanco.jpg);
+    background-attachment: fixed;
+}
+
+.video{
+    text-align: left;
+}
+
+.logo{
+    width: 4rem;
+}
+
+footer{
+    background-color: #323131;
+    
+}
+footer p{
+    color: rgb(255, 255, 255)
+    ;
+}
