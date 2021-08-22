@@ -72,13 +72,14 @@ body *{
 .titulo {
     color: rgb(255, 255, 255);
     font-size: 3rem;
-    text-align: right;
+    margin-right: 5px;
+
    
 }
 
 .subtitulo{
     color: rgb(255, 255, 255);
-    text-align: right;
+    text-align: auto;
 }
 
 .experiencia{
