@@ -13,7 +13,7 @@ body *{
 }
 
 .navbar{
-    background-color: #323131;
+    background-color: #0a0a0a;
     position:fixed;    
     text-align: center;
     padding: auto;
@@ -61,7 +61,7 @@ body *{
 .habilidades{
     padding: 5rem 2rem;
     padding-bottom: 0;
-    background-color: rgb(32, 32, 32);
+    background-image: url(../img/background_trama.jpg);
     
 }
 .trabajos{
@@ -82,7 +82,7 @@ body *{
 }
 
 .experiencia{
-    background-color: rgb(22, 22, 22);
+    background-image: url(../img/background_trama.jpg);
     padding-top: 5rem;
     padding-bottom: 10rem;
     
@@ -104,7 +104,7 @@ body *{
 }
 
 footer{
-    background-color: #323131;
+    background-color: #0e0e0e;
     
 }
 footer p{
