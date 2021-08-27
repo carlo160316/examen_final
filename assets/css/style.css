@@ -35,6 +35,10 @@ body *{
     color: rgb(255, 6, 6);
 }
 
+.azul {
+    color: blue;
+}
+
 .boton{
     font-size: 12px;
 
